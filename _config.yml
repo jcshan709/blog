@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords: blog
 author: jcShan709 <jcshan709@163.com>
-language: zh
+language:
+  - zh-cn
+  - en
 timezone: 'Asia/Shanghai'
 
 # URL
